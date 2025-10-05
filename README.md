@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou Renan Schmitt
 
-<!--
-**RenanSchmitt/RenanSchmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Product Designer | Front-End Developer  
+🚀 UX/UI & Agile Practitioner  
+🔧 Fullstack Web Development | Node.js | React | C# | PHP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projetos em destaque
+
+- [4 Patas](https://github.com/RenanSchmitt/4patas.github.io) — Plataforma de adoção de animais (React + Node.js)
+- [magic-nolimits](https://github.com/RenanSchmitt/magic-nolimits) — Loja online em PHP + MySQL
+- [porao-dos-instrumentos](https://github.com/RenanSchmitt/porao-dos-instrumentos) — Marketplace C# ASP.NET
+- [WeChoice](https://github.com/RenanSchmitt/we-choice) — App de votação em Node.js
+
+---
+
+## ⚡ Tecnologias e Skills
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+---
+
+## 📫 Contato
+
+📧 renanschmitt.ti@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/renanschmitt/)  
+🎨 [Portfolio Behance](https://www.behance.net/RenanSchmitt)  
+🖥️ [Bento](https://bento.me/renanschmitt)
