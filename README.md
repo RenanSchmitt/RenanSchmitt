@@ -12,6 +12,8 @@
 - [magic-nolimits](https://github.com/RenanSchmitt/magic-nolimits) — Loja online em PHP + MySQL
 - [porao-dos-instrumentos](https://github.com/RenanSchmitt/porao-dos-instrumentos) — Marketplace C# ASP.NET
 - [WeChoice](https://github.com/RenanSchmitt/we-choice) — App de votação em Node.js
+- [AjudaAi_HackathonUlbra](https://github.com/RenanSchmitt/AjudaAi_HackathonUlbra) — Plataforma web para conectar doadores, beneficiários e motoristas, facilitando a entrega de doações. Desenvolvido no Hackathon ULBRA. (React + Node.js)
+- [DevBanter](https://github.com/RenanSchmitt/DevBanter) — Rede social estilo Twitter para programadores. Cadastro, posts, comentários e interface responsiva. Projeto de estudo em Node.js e MySQL. (React + Node.js)
 
 ---
 
