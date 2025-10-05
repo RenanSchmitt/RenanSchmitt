@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou Renan Schmitt
 
-💻 Product Designer | Front-End Developer  
-🚀 UX/UI & Agile Practitioner  
-🔧 Fullstack Web Development | Node.js | React | C# | PHP
+💻 **Product Designer | Front-End Developer**  
+🚀 **UX/UI & Agile Practitioner**  
+🔧 **Fullstack Web Development:** Node.js | React | C# | PHP  
+🎨 **Design Thinking & Experiência do Usuário**
 
 ---
 
